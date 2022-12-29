@@ -2,8 +2,7 @@
 ## 基于pytorch
 ### requirement
 ```
-pip install torch,torchvision
-pip install tkinter PIL
+pip install -r requirements.txt
 ```
 ### 使用部分
 #### 在train.py部分实现了训练MNIST数据集，并且将训练的模型参数保存在本地
